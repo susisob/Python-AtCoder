@@ -1,6 +1,6 @@
 def main():
-    print("Hello from python-atcoder!")
+	pass
 
 
 if __name__ == "__main__":
-    main()
+	main()
