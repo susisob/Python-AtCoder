@@ -1,14 +1,12 @@
 def main():
-	N = int(input())
-	A = list(map(int, input().split()))
-	for i in range(N-1):
-		if A[i] < A[i+1]:
-			continue
+	S = input()
+	S_new = ""
+	for _ in S:
+		if _ == "2":
+			S_new += "2"
 		else:
-			print("No")
-			return
-	else:
-		print("Yes")
-		return
+			continue
+	print(S_new)
+
 if __name__ == "__main__":
 	main()

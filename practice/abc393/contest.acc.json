@@ -1,15 +1,15 @@
 {
   "contest": {
-    "id": "abc395",
-    "title": "AtCoder Beginner Contest 395",
-    "url": "https://atcoder.jp/contests/abc395"
+    "id": "abc393",
+    "title": "AtCoder Beginner Contest 393",
+    "url": "https://atcoder.jp/contests/abc393"
   },
   "tasks": [
     {
-      "id": "abc395_a",
+      "id": "abc393_a",
       "label": "A",
-      "title": "Strictly Increasing?",
-      "url": "https://atcoder.jp/contests/abc395/tasks/abc395_a",
+      "title": "Poisonous Oyster ",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_a",
       "directory": {
         "path": "a",
         "testdir": "test",
@@ -17,10 +17,10 @@
       }
     },
     {
-      "id": "abc395_b",
+      "id": "abc393_b",
       "label": "B",
-      "title": "Make Target",
-      "url": "https://atcoder.jp/contests/abc395/tasks/abc395_b",
+      "title": "A..B..C",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_b",
       "directory": {
         "path": "b",
         "testdir": "test",
@@ -28,10 +28,10 @@
       }
     },
     {
-      "id": "abc395_c",
+      "id": "abc393_c",
       "label": "C",
-      "title": "Shortest Duplicate Subarray",
-      "url": "https://atcoder.jp/contests/abc395/tasks/abc395_c",
+      "title": "Make it Simple",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_c",
       "directory": {
         "path": "c",
         "testdir": "test",
@@ -39,10 +39,10 @@
       }
     },
     {
-      "id": "abc395_d",
+      "id": "abc393_d",
       "label": "D",
-      "title": "Pigeon Swap",
-      "url": "https://atcoder.jp/contests/abc395/tasks/abc395_d",
+      "title": "Swap to Gather",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_d",
       "directory": {
         "path": "d",
         "testdir": "test",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "id": "abc395_e",
+      "id": "abc393_e",
       "label": "E",
-      "title": "Flip Edge",
-      "url": "https://atcoder.jp/contests/abc395/tasks/abc395_e",
+      "title": "GCD of Subset",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_e",
       "directory": {
         "path": "e",
         "testdir": "test",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "id": "abc395_f",
+      "id": "abc393_f",
       "label": "F",
-      "title": "Smooth Occlusion",
-      "url": "https://atcoder.jp/contests/abc395/tasks/abc395_f",
+      "title": "Prefix LIS Query ",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_f",
       "directory": {
         "path": "f",
         "testdir": "test",
@@ -72,10 +72,10 @@
       }
     },
     {
-      "id": "abc395_g",
+      "id": "abc393_g",
       "label": "G",
-      "title": "Minimum Steiner Tree 2",
-      "url": "https://atcoder.jp/contests/abc395/tasks/abc395_g",
+      "title": "Unevenness",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_g",
       "directory": {
         "path": "g",
         "testdir": "test",
